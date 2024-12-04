@@ -16,6 +16,8 @@
 
 <br/>
 
+<!--
+
 # :abacus: Skills
 ### Languages
 ![c](https://img.shields.io/badge/c-3776AB.svg?&style=for-the-badge&logo=c&logoColor=white)
@@ -47,6 +49,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 <br/>
+
+-->
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhcha@knu.ac.kr)](mailto:jhcha@knu.ac.kr)
